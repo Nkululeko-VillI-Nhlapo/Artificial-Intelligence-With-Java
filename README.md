@@ -1,6 +1,3 @@
-## AI with Java Repository
-### Nhlapo Nkululeko
-<hr>
 
 This repository contains two projects that demonstrate the implementation of two popular AI algorithms in Java: Greedy Best-First Search and A* Search. Both projects showcase the application of these algorithms to solve real-world problems, using appropriate data structures to manage the state and search process.
 
