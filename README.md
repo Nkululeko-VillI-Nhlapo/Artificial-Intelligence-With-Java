@@ -1,4 +1,4 @@
-
+<hr>
 This repository features Java implementations of two fundamental AI algorithms:
 
 1. **Nine Soldiers Puzzle Solver**: Utilizes Greedy Best-First Search to solve the Nine Soldiers puzzle by arranging soldiers on a board. It uses `PriorityQueue` for state exploration and a `State` class to manage board configurations and heuristic values.
